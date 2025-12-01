@@ -17,7 +17,7 @@ for tag in soup.find_all(class_=True):
 
 #elements = soup.find_all(class_= "ds:5")
 #for el in elements:
-    print(el.attrs)
+#    print(el.attrs)
 
 #os.remove("teslaFile.txt")
 #with open("teslaFile.txt", "w") as f:
@@ -26,3 +26,5 @@ for tag in soup.find_all(class_=True):
 #os.remove("teslaFile.txt")
 #with open("classes.txt", "w") as f:
 #    f.write(str(classes))
+
+#Teraz dodaję coś, co usunę, ale po prostu chcę poćwiczyć gita
